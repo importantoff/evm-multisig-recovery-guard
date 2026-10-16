@@ -1,0 +1,21 @@
+{
+  "name": "evm-multisig-recovery-guard",
+  "version": "1.0.0",
+  "description": "ERC-4337 and Safe multisig social recovery guard module with timelocks and threshold signatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "ethereum",
+    "evm",
+    "multisig",
+    "safe",
+    "erc4337",
+    "social-recovery",
+    "timelock",
+    "solidity"
+  ],
+  "author": "importantoff <importantoff@users.noreply.github.com>",
+  "license": "Apache-2.0"
+}
